@@ -53,3 +53,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli güncel içerik sunar. İşte bazı özellikler:
 
 *Öne Çıkanlar: Tüm veriler veri tabanından dinamik olarak çekilir.
+![Image](https://github.com/user-attachments/assets/a7b15943-b8e4-47cc-922b-33b51e023df9)
+
+*Hakkımda: Kullanıcının kişisel tanıtımı dinamik bir şekilde veri tabanından alınır.
