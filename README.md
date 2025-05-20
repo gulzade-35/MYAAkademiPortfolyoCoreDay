@@ -42,3 +42,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/10777c2c-4e49-4a33-b9ab-8e3798a43ab7)
 
 *İstatistikler: Portföydeki tamamlanan projeler, gelen mesajlar, deneyimlerle vb. ile ilgili istatistiksel veriler yönetilebilir.
+![Image](https://github.com/user-attachments/assets/54268b22-9231-476d-8509-cf1266b68b3f)
+
+*Gelen Mesajlar: Kullanıcıya gelen mesajlar okunabilir, silinebilir ve durumları güncellenebilir.
