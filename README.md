@@ -30,3 +30,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/37bfcbe9-ca90-4b19-a8a0-490aae94d84a)
 
 *Projelerim: Kullanıcı, tamamladığı projeleri ekleyebilir, düzenleyebilir veya silebilir.
+![Image](https://github.com/user-attachments/assets/5337219e-7f9d-467a-9b5e-6f2b69407196)
+
+*Hizmetlerim: Kullanıcı verdiği hizmetleri ekleyip düzenleyebilir.
