@@ -49,3 +49,7 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 
 ![Image](https://github.com/user-attachments/assets/e937350a-162c-4176-bd81-d0612647ca7e)
 
+💻 UI Paneli Özellikleri
+UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli güncel içerik sunar. İşte bazı özellikler:
+
+*Öne Çıkanlar: Tüm veriler veri tabanından dinamik olarak çekilir.
