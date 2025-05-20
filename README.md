@@ -45,3 +45,7 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/54268b22-9231-476d-8509-cf1266b68b3f)
 
 *Gelen Mesajlar: Kullanıcıya gelen mesajlar okunabilir, silinebilir ve durumları güncellenebilir.
+![Image](https://github.com/user-attachments/assets/298b80cd-4f32-453c-b25c-13339f773c73)
+
+![Image](https://github.com/user-attachments/assets/e937350a-162c-4176-bd81-d0612647ca7e)
+
