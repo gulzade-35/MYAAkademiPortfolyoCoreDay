@@ -59,3 +59,6 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/5174348b-6eb0-465d-a4d2-11d9c47a25a6)
 
 *Yeteneklerim: Teknik ve kişisel becerilerin listelendiği, puan veya seviye gösterimi ile zenginleştirilmiş dinamik bir bölümdür.
+![Image](https://github.com/user-attachments/assets/3b034453-aaaf-4799-9121-ae10768a2c02)
+
+*Deneyimlerim: İş ve proje tecrübeleri kullanıcıya sunulur.
