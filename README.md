@@ -62,3 +62,7 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/3b034453-aaaf-4799-9121-ae10768a2c02)
 
 *Deneyimlerim: İş ve proje tecrübeleri kullanıcıya sunulur.
+*Eğitim Hayatım: Kullanıcının mezuniyetleri, aldığı eğitim programları ve sertifikaları içerir.
+![Image](https://github.com/user-attachments/assets/3478d182-80e5-416d-8aff-3393e9e493f1)
+
+*Projelerim: Kategorilere ayrılmış projeler, dinamik bir yapıda gösterilir.
