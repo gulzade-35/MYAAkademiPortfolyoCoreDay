@@ -25,3 +25,5 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 
 *Deneyimlerim: Kullanıcı iş veya proje deneyimlerini yönetebilir. Yeni deneyimler eklenebilir, mevcut deneyimler düzenlenebilir veya silinebilir.
 ![Image](https://github.com/user-attachments/assets/c70c53ad-7c1b-4f50-97af-96689f81f6b6)
+
+Eğitim Hayatım: Kullanıcı aldığı eğitim bilgisini yönetebilir.
