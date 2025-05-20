@@ -72,4 +72,9 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/1d4ccdb0-2936-4970-a97e-3b9e81cfe3a8)
 
 *Referanslarım ve Yorumlarım: Kullanıcının birlikte çalıştığı kişilerden alınan yorum ve referanslar yer alır.
+![Image](https://github.com/user-attachments/assets/d8d0e2d2-1838-4299-ada7-3b2aba28e71e)
+
+*İletişim Bilgilerim: Kullanıcı iletişim bilgilerini görüntüleyebilir ve mesaj gönderebilir.
+
+*Bana Yazın: Ziyaretçilerin kullanıcıya doğrudan mesaj gönderebildiği, iletişimi kolaylaştıran bir form alanıdır.
 
