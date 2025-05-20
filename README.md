@@ -23,3 +23,4 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 *Yeteneklerim: Kullanıcı teknik ve kişisel yeteneklerini ekleyip düzenleyebilir.
 ![Image](https://github.com/user-attachments/assets/dca3a16f-4ab0-464b-8fa0-1c3783dd9d1b)
 
+*Deneyimlerim: Kullanıcı iş veya proje deneyimlerini yönetebilir. Yeni deneyimler eklenebilir, mevcut deneyimler düzenlenebilir veya silinebilir.
