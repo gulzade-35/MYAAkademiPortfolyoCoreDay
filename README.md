@@ -33,3 +33,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/5337219e-7f9d-467a-9b5e-6f2b69407196)
 
 *Hizmetlerim: Kullanıcı verdiği hizmetleri ekleyip düzenleyebilir.
+![Image](https://github.com/user-attachments/assets/5b508779-d127-4b40-975c-f93bc6246888)
+
+*Referanslarım: İş veya eğitim hayatında referans gösterilen kişilerin bilgileri yönetilebilir.
