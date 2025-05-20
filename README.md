@@ -21,4 +21,5 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/9c24335c-1957-494a-9fa3-ec530498025a)
 
 *Yeteneklerim: Kullanıcı teknik ve kişisel yeteneklerini ekleyip düzenleyebilir.
+![Image](https://github.com/user-attachments/assets/dca3a16f-4ab0-464b-8fa0-1c3783dd9d1b)
 
