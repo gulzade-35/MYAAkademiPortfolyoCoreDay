@@ -1,0 +1,88 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_DefaultHeadComponentPartial")
+
+<body class="index-page">
+
+    @await Component.InvokeAsync("_DefaultSidebarComponentPartial")
+
+    <main class="main">
+        <!-- Hero Section -->
+        @await Component.InvokeAsync("_DefaultSliderComponentPartial")
+       <!-- /Hero Section -->
+
+        <!-- About Section -->
+        @await Component.InvokeAsync("_DefaultAboutComponentPartial")
+        <!-- /About Section -->
+
+        <!-- Stats Section -->
+        @await Component.InvokeAsync("_DefaultStatisticComponentPartial")
+        <!-- /Stats Section -->
+
+        <!-- Skills Section -->
+         @await Component.InvokeAsync("_DefaultSkillComponentPartial")
+        <!-- /Skills Section -->
+
+        <!-- Resume Section -->
+        <section id="resume" class="resume section">
+            <div class="container">
+                <div class="row">
+                    @await Component.InvokeAsync("_DefaultExperienceComponentPartial")
+
+                </div>
+
+            </div>
+
+        </section>
+        <!-- /Resume Section -->
+
+        <!-- Resume Section -->
+        <section id="resume" class="resume section">
+            <div class="container">
+                <div class="row">
+                    @await Component.InvokeAsync("_DefaultEducationComponentPartial")
+
+                </div>
+
+            </div>
+
+        </section>
+        <!-- /Resume Section -->
+
+        <!-- Portfolio Section -->
+        @await Component.InvokeAsync("_DefaultPortfolioComponentPartial")
+        <!-- /Portfolio Section -->
+
+        <!-- Services Section -->
+         @await Component.InvokeAsync("_DefaultServicesComponentPartial")
+        <!-- /Services Section -->
+
+        <!-- Testimonials Section -->
+        @await Component.InvokeAsync("_DefaultTestimonialComponentPartial")
+        <!-- /Testimonials Section -->
+
+        <!-- Contact Section -->
+        @await Component.InvokeAsync("_DefaultContactComponentPartial")
+      <!-- /Contact Section -->
+
+    </main>
+    @await Component.InvokeAsync("_DefaultFooterComponentPartial")
+
+    <!-- Scroll Top -->
+    <a href="#" id="scroll-top" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+    <!-- Preloader -->
+    <div id="preloader"></div>
+
+    @await Component.InvokeAsync("_DefaultScriptComponentPartial")
+ 
+
+</body>
+
+</html>
