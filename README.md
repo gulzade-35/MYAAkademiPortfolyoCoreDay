@@ -39,3 +39,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/78488bdb-6c58-491a-9a06-ce2740862b03)
 
 *İletişim Bilgileri: İletişim bilgileri üzerinde yönetim yapılabilir.
+![Image](https://github.com/user-attachments/assets/10777c2c-4e49-4a33-b9ab-8e3798a43ab7)
+
+*İstatistikler: Portföydeki tamamlanan projeler, gelen mesajlar, deneyimlerle vb. ile ilgili istatistiksel veriler yönetilebilir.
