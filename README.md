@@ -69,4 +69,7 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/134d0150-dceb-459d-8c42-293bee943f73)
 
 *Hizmetlerim: Kullanıcının sunduğu profesyonel hizmetlerin tanıtıldığı bölümdür.
+![Image](https://github.com/user-attachments/assets/1d4ccdb0-2936-4970-a97e-3b9e81cfe3a8)
+
+*Referanslarım ve Yorumlarım: Kullanıcının birlikte çalıştığı kişilerden alınan yorum ve referanslar yer alır.
 
