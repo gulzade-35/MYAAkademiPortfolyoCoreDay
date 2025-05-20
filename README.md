@@ -66,3 +66,7 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/3478d182-80e5-416d-8aff-3393e9e493f1)
 
 *Projelerim: Kategorilere ayrılmış projeler, dinamik bir yapıda gösterilir.
+![Image](https://github.com/user-attachments/assets/134d0150-dceb-459d-8c42-293bee943f73)
+
+*Hizmetlerim: Kullanıcının sunduğu profesyonel hizmetlerin tanıtıldığı bölümdür.
+
