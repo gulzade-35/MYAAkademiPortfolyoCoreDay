@@ -77,4 +77,7 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 *İletişim Bilgilerim: Kullanıcı iletişim bilgilerini görüntüleyebilir ve mesaj gönderebilir.
 
 *Bana Yazın: Ziyaretçilerin kullanıcıya doğrudan mesaj gönderebildiği, iletişimi kolaylaştıran bir form alanıdır.
+![Image](https://github.com/user-attachments/assets/740df819-4578-433a-9463-ff96175e45f4)
+
+*Hata Sayfası
 
