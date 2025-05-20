@@ -18,5 +18,7 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 🧑‍💻 Admin Paneli Özellikleri
 
 * Hakkımda: Kullanıcının kendisini tanıttığı bölümdür.
+![Image](https://github.com/user-attachments/assets/9c24335c-1957-494a-9fa3-ec530498025a)
 
-  
+*Yeteneklerim: Kullanıcı teknik ve kişisel yeteneklerini ekleyip düzenleyebilir.
+
