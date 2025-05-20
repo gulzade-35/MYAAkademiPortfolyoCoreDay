@@ -36,3 +36,6 @@ Yönetici, UI kısımdaki içerikleri kolaylıkla yönetebilir. Admin panelinde 
 ![Image](https://github.com/user-attachments/assets/5b508779-d127-4b40-975c-f93bc6246888)
 
 *Referanslarım: İş veya eğitim hayatında referans gösterilen kişilerin bilgileri yönetilebilir.
+![Image](https://github.com/user-attachments/assets/78488bdb-6c58-491a-9a06-ce2740862b03)
+
+*İletişim Bilgileri: İletişim bilgileri üzerinde yönetim yapılabilir.
