@@ -80,4 +80,12 @@ UI kısmı, veri tabanından dinamik olarak veri çekerek kullanıcıya sürekli
 ![Image](https://github.com/user-attachments/assets/740df819-4578-433a-9463-ff96175e45f4)
 
 *Hata Sayfası
+![Image](https://github.com/user-attachments/assets/ef35f306-3c2d-4de1-b1d5-af55fe6e454e)
 
+🚀 Kullanılan Teknolojiler
+
+ASP.NET Core 6.0: Proje altyapısında dinamik ve sürdürülebilir bir yapı oluşturmak için bu modern framework kullanılmıştır.
+PartialView: UI sayfalarını parçalara ayırarak daha düzenli ve yönetilebilir bir yapı oluşturulmuştur.
+Entity Framework Core (Code First): MSSQL veritabanı ile iletişimi sağlayan Code First yaklaşımı kullanılmıştır.
+ViewComponent: Sayfa bileşenlerini daha işlevsel hale getirmek ve veri çekimini yönetebilmek için kullanılmıştır.
+Tek Katmanlı Mimari: Proje, basit ve anlaşılır bir yapı oluşturmak için tek katmanlı mimari ile geliştirilmiştir.
